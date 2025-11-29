@@ -15,10 +15,26 @@ Hey! Im a student who focuses on cybersecurity through motivated computing studi
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Number-1-Python-Glazer&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
+# 🧭 Roadmap
+## Google Cybersecurity Cert
+Foundation in security, logs, SQL, Linux, and incident response.
+
+## Python Institute
+Basic Python for automation and small security tools.
+
+## Network+
+Networking, ports, protocols, and traffic flow.
+
+## Security+
+Threats, IAM, encryption basics, and risk.
+
+## PenTest+
+Recon, scanning, exploitation basics, and attacker logic.
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Number-1-Python-Glazer&icon=0&color=13)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
