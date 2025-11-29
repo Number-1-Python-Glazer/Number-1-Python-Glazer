@@ -1,7 +1,6 @@
 ## 🕷️ About Me
 
 Hey! Im a student who focuses on cybersecurity through motivated computing studies while working on technical projects. I possess expertise in Python scripting and log analysis and SQL queries and fundamental security principles including authentication and encryption and IAM. I developed practical tools and labs while advancing through the Google Cybersecurity Certificate program. I aim to become a penetration tester who will work in security operations.
----
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahmoud-ibrahim-557aba392/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gearrrising@gmail.com) 
