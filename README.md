@@ -1,4 +1,4 @@
-# 💫 About Me:
+#👾 About Me:
 Hey! im a student who focuses on cybersecurity through motivated computing studies while working on technical projects. I possess expertise in Python scripting and log analysis and SQL queries and fundamental security principles including authentication and encryption and IAM. I developed practical tools and labs while advancing through the Google Cybersecurity Certificate program. I am to become a penetration tester who will work in security operations.
 
 
