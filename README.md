@@ -7,6 +7,8 @@ Hey! Im a student who focuses on cybersecurity through motivated computing studi
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+<img width="286" height="349" alt="image" src="https://github.com/user-attachments/assets/cd11acdd-dbe7-4eef-afb2-aa5e074b310b" />
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Number-1-Python-Glazer&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Number-1-Python-Glazer&theme=dark&hide_border=false)<br/>
