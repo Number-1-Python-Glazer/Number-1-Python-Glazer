@@ -6,7 +6,7 @@ Hey! Im a student who focuses on cybersecurity through motivated computing studi
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahmoud-ibrahim-557aba392/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gearrrising@gmail.com) 
 
 # 💻 Tech Stack:
-<img width="1175" height="864" alt="image" src="https://github.com/user-attachments/assets/7e2b4ba9-a83e-4f39-9bb3-27e899195812" />
+<img width="8175" height="564" alt="image" src="https://github.com/user-attachments/assets/7e2b4ba9-a83e-4f39-9bb3-27e899195812" />
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Number-1-Python-Glazer&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
