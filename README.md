@@ -29,7 +29,7 @@ Recon, scanning, exploitation basics, and attacker logic.
 
 ## HTB Certified Penetration Testing Specialist (HTB CPTS)
 
-##OSCP 
+## OSCP 
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
